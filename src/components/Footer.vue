@@ -8,17 +8,17 @@
       <nav>
         <ul class="flex sm:justify-end -mx-2">
           <li class="px-2">
-            <g-link to="/" class="border-b border-transparent hover:border-gray-400 transition-colors duration-300">Home</g-link>
+            <g-link to="/" class="border-b border-transparent hover:border-gray-400 transition-colors duration-300">首頁 Home</g-link>
           </li>
           <li class="px-2">
-            <g-link to="/about/" class="border-b border-transparent hover:border-gray-400 transition-colors duration-300">About</g-link>
+            <g-link to="/about/" class="border-b border-transparent hover:border-gray-400 transition-colors duration-300">關於 About</g-link>
           </li>
           <li class="px-2">
-            <a href="/sitemap.xml" class="border-b border-transparent hover:border-gray-400 transition-colors duration-300">Sitemap</a>
+            <a href="https://t108458055.github.io/" class="border-b border-transparent hover:border-gray-400 transition-colors duration-300">My Resume</a>
           </li>
-          <li class="px-2">
+          <!-- <li class="px-2">
             <a href="/feed.xml" class="border-b border-transparent hover:border-gray-400 transition-colors duration-300">RSS Feed</a>
-          </li>
+          </li> -->
         </ul>
       </nav>
     </div>
