@@ -7,8 +7,8 @@ const blogdir = './content/posts'
 const postDate = moment().format('YYYY-MM-DD HH:mm:ss')
 
 if (!title) {
-    console.log('❌  Please specify a post title.')
-        // return
+  console.log('❌  Please specify a post title.')
+  return
 }
 
 const basename = `${moment().format('YYYY-MM-DD')}-${slugify(title)}`
@@ -18,7 +18,7 @@ title: "${title}"
 slug:
 description: ""
 date: ${postDate}
-author: 蕭恩霖
+author: bleda-gridsome
 tags:
 cover:
 fullscreen: false

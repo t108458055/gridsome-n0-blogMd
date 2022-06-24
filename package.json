@@ -11,8 +11,8 @@
     "@gridsome/plugin-google-analytics": "^0.1.1",
     "@gridsome/plugin-sitemap": "^0.3.0",
     "@gridsome/source-filesystem": "^0.6.2",
-    "@gridsome/transformer-remark": "^0.0.3",
-    "gridsome": "^0.0.4",
+    "@gridsome/transformer-remark": "^0.6.0",
+    "gridsome": "^0.7.15",
     "gridsome-plugin-remark-shiki": "^0.4.0",
     "gridsome-plugin-rss": "^1.2.0",
     "medium-zoom": "^1.0.5",
@@ -22,6 +22,6 @@
     "moment": "^2.26.0",
     "postcss-import": "^12.0.1",
     "postcss-nested": "^4.2.1",
-    "tailwindcss": "^3.1.4"
+    "tailwindcss": "^1.4.6"
   }
 }

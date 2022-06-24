@@ -4,14 +4,9 @@
       <header>
         <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-10 md:py-32 border-b border-gray-300">
           <h1 class="text-4xl sm:text-5xl md:text-6xl font-sans font-bold mb-1">
-            <g-link to="/" class="text-black">
-            恩霖的Coding Road
-            </g-link>
+            <g-link to="/" class="text-black">Bleda</g-link>
           </h1>
-          <p class="text-gray-700 text-lg sm:text-3xl">
-            紀錄 Record,想像 Thoughts, 故事 stories, 想法 ideas.
-            </p>
-            <p><a href="https://github.com/t108458055">MyGithub</a></p>
+          <p class="text-gray-700 text-lg sm:text-3xl">Thoughts, stories, and ideas.</p>
         </div>
       </header>
       <section>
