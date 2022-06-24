@@ -6,6 +6,7 @@
       <article class="max-w-xl md:max-w-2xl xl:max-w-3xl mx-auto px-6 sm:px-12 pt-16" :class="{'border-b border-grey-lighter pb-10 mb-16': !$page.post.author}">
 
         <alert v-if="postIsOlderThanOneYear" class="bg-orange-100 border-l-4 border-orange-500 text-orange-900">
+          這篇文章已經有一年多了，其中一些信息可能已經過時了。
           This post is over a year old, some of this information may be out of date.
         </alert>
 

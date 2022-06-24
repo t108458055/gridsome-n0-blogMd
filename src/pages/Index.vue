@@ -4,9 +4,10 @@
       <header>
         <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-10 md:py-32 border-b border-gray-300">
           <h1 class="text-4xl sm:text-5xl md:text-6xl font-sans font-bold mb-1">
-            <g-link to="/" class="text-black">Bleda</g-link>
+            <g-link to="/" class="text-black">蕭恩霖</g-link>
           </h1>
-          <p class="text-gray-700 text-lg sm:text-3xl">Thoughts, stories, and ideas.</p>
+          <p class="text-gray-700 text-lg sm:text-3xl">
+            程式碼紀錄 Coding Record, 想像 Thoughts,故事 stories,想法 ideas.</p>
         </div>
       </header>
       <section>
