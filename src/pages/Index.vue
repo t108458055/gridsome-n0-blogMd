@@ -3,15 +3,7 @@
     <main>
       <header>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HMTH7ZNNHR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-HMTH7ZNNHR');
-</script>
 
         <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-10 md:py-32 border-b border-gray-300">
           <h1 class="text-4xl sm:text-5xl md:text-6xl font-sans font-bold mb-1">
