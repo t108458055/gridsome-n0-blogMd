@@ -1,10 +1,12 @@
 ---
-title: "這是第一次的發文"
+title: "first-my-post"
 slug:
 description: ""
 date: 2022-06-26 22:09:29
-author: 蕭恩霖
-tags: - content
+author: n0
+tags: 
+    - content
+    - Markdown
 cover:
 fullscreen: false
 ---
