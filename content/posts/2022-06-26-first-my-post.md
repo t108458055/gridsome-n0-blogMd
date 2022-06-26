@@ -1,9 +1,9 @@
 ---
-title: "first-my-post"
+title: "第一次發文"
 slug:
 description: ""
 date: 2022-06-26 22:09:29
-author: n0
+author: 蕭恩霖
 tags: 
     - content
     - Markdown
@@ -12,8 +12,8 @@ fullscreen: false
 ---
 # 想不到要發什麼 直接撈 2022 /3 /13 的MD 筆記
 ## * 滑鼠移動至下拉式選單 自動顯示出來 使用 jQuery方式
-```js
-    /**<!-- Html 5 Bootstrap 4.3.1 -->*/
+```html
+    <!-- Html 5 Bootstrap 4.3.1 -->
         <li class="nav-item dropdown adminddlin0">
             <a class="nav-link dropdown-toggle">
                 Login/Signin
@@ -24,7 +24,7 @@ fullscreen: false
             </div>
         </li>
 
-    /** JQ 下拉式選單  滑鼠 移動至 下拉式直接顯示*/
+    <!--/** JQ 下拉式選單  滑鼠 移動至 下拉式直接顯示*/-->
        <script>
             $(document).ready(function () {
                 $('.adminddlin0').hover(function () {
