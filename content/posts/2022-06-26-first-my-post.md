@@ -1,7 +1,7 @@
 ---
-title: "第一次發文"
+title: "first-my-post"
 slug:
-description: ""
+description: "想不到要發什麼 直接撈 2022 /3 /13 的MD 筆記"
 date: 2022-06-26 22:09:29
 author: EnLin
 tags: 
