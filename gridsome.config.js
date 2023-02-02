@@ -1,6 +1,6 @@
 module.exports = {
-    siteName: '一個關於n0的人生紀錄旅途',
-    siteDescription: "感謝各位.",
+    siteName: 'Web紀錄旅途',
+    siteDescription: "要加油持續前進.",
     siteUrl: 'https://gridsome-starter-bleda.netlify.com',
     titleTemplate: `%s | Bleda`,
     icon: 'src/favicon.png',
