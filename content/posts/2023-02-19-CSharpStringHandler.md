@@ -1,5 +1,5 @@
 ---
-title: "CSharpStringHandler"
+title: "C#字串處理的方法"
 slug:
 description: "C#字串處理"
 date: 2023-02-19 00:07:29
