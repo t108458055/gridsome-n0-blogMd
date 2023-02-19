@@ -5,7 +5,7 @@ description: "C#字串處理"
 date: 2023-02-19 00:07:29
 author: EnLin
 tags: 
-    - C#
+    - CSharp
     - Linq
     - String
 cover:
